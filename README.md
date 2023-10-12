@@ -26,7 +26,36 @@
 <h3 align="left"></h3> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <h3 align="left">My Projects:</h3>
-<h4 align="center">A2R-Hub</h4>
+<h2 align="center">A2R-Hub</h2>
+<p>
+ <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/accaaf6a-77e3-42ba-81e4-86877f6d8816" alt="rajnikant"/>
+
+
+</p>
+<p>
+  <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/aee9dd8b-4c9f-47c0-bcc0-90a36dd22dc4" alt="rajnikant"/>
+
+
+</p>
+<p>
+   <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1ed5c899-89a1-4250-82d1-5f282b20cab1" alt="rajnikant"/>
+
+
+</p>
+<p>
+ 
+   <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/8af393b4-a758-4b21-8ea6-a2264cea422b" alt="rajnikant"/>
+
+
+</p>
+<h2 align="center">Online Suduko Solver</h2>
+<p>
+ <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe"/>
+ <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82"/>
+
+
+</p>
+
 
 
 
