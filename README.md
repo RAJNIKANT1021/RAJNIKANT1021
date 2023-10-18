@@ -45,7 +45,7 @@
 
 ![Rajnikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJNIKANT1021&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnikant1021&theme=dark&show_icons=true" alt="rajnikant1021" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnikant1021&theme=dark&show_icons=true" alt="rajnikant1021" /></p>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAJNIKANT1021&theme=dark&show_icons=true)](https://github.com/RAJNIKANT1021/github-readme-stats)
 
