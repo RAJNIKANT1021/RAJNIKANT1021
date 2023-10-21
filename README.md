@@ -91,6 +91,23 @@
 <p align="left">
  &nbsp;
 </p>
+<h2 align="center">iNotebook[MERN STACK]</h2>
+<p align="left">
+ &nbsp;
+</p>
+<p>
+ 
+
+ <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/badbf584-e846-4cdb-a545-25700f7f4cb8" alt="rajnikant"/>
+ 
+ <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/2feb8549-e26f-46f4-8ee1-0f19655941ec" alt="rajnikant"/>
+
+
+
+</p>
+<p align="left">
+ &nbsp;
+</p>
 <h2 align="center">Online Suduko Solver</h2>
 <p>
  <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe"/>
