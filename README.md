@@ -91,7 +91,18 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 
 <br/>
 
-#### 🔹 Online Sudoku Solver
+#### 🧩 Online Sudoku Solver
+> **An interactive, algorithm-driven application that instantly solves complex Sudoku puzzles.** | [🚀 Live Demo](https://onlinesudukosolver.web.app/)
+
+**Overview:**
+The Online Sudoku Solver is a specialized web application built with React.js that provides instant solutions to Sudoku puzzles. Designed for both enthusiasts and learners, it combines an intuitive, responsive user interface with a highly optimized algorithmic core.
+
+**Key Features:**
+- **Optimized Solving Engine:** Powered by a highly efficient backtracking algorithm enhanced with advanced pruning techniques, reducing solve time by over 50%.
+- **Interactive Visualizations:** Offers step-by-step visualization of the solving process, making it an excellent educational tool for players.
+- **Hint System & Difficulty Levels:** Includes intelligent hints to guide users when stuck, alongside multiple board difficulty settings for a tailored experience.
+- **Responsive Design:** Built using modern frontend tools (React.js, CSS3) ensuring a seamless, engaging experience across all devices.
+
 <p align="center">
   <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe" alt="Sudoku 1" width="45%" />
   <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82" alt="Sudoku 2" width="45%" />
