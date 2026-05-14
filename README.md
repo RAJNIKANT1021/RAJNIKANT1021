@@ -87,8 +87,10 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 - **Real-Time Preview:** Split-view UI for real-time preview and instant on-the-fly JSON edits.
 - **Native Export:** Renders native `.pptx` files dynamically.
 
-*(Add a high-quality product screenshot below)*  
-`![AI Presentation Studio Demo](YOUR_SCREENSHOT_IMAGE_URL_HERE)`
+<img width="1839" height="816" alt="image" src="https://github.com/user-attachments/assets/c1dd9a78-d6fe-4925-961c-862fb2d29328" />
+<img width="1510" height="792" alt="image" src="https://github.com/user-attachments/assets/9708e4a4-86f4-4b2b-b055-d4a6dd2df305" />
+
+
 
 ---
 
