@@ -1,123 +1,98 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rajnikant</h1>
-<h3 align="center">A passionate  developer ,Enthusiastic and a Team player.</h3>
+<h3 align="center">Passionate Full-Stack Developer | Innovator | Team Player</h3>
 
- <img margin="50"  align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  /> 
-<p align="left"> <img margin="50" src="https://komarev.com/ghpvc/?username=rajnikant1021&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikant1021" /> </p>
+<div align="center">
+  <img alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+</div>
 
-- 🌱 I’m currently learning **Node.js(Backend)**
+<br/>
 
-- 💬 Ask me about **Reactjs,JavaScript,Datastructure and algorithms,Frontend Development**
-
-- 📫 How to reach me **Rajnikant1021@gmail.com**
-
-- ⚡ Fun fact **As I walked through the library, the books whispered secrets to me, and the librarians performed interpretive dances of ancient cataloging techniques**
-<p align="left">
- &nbsp;
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajnikant" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajnikant" height="30" width="40" /></a>
-<a href="https://instagram.com/rajnikant_1103" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnikant_1103" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajnikant1021" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajnikant1021" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajnikant1021" target="blank"><img margin="50" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajnikant1021" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajnikant1021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
 
+### 👨‍💻 About Me
 
+- 🌱 I’m currently focused on **Advanced Full-Stack Development, AI Integrations, and Modern Frontend Architectures.**
+- 💬 Ask me about **React.js, JavaScript, Node.js, Data Structures & Algorithms, and UI/UX Engineering.**
+- 🌍 Portfolio: **[rajnikant.cloud](https://rajnikant.cloud)**
+- 📫 How to reach me: **Rajnikant1021@gmail.com**
+- ⚡ Fun fact: **As I walked through the library, the books whispered secrets to me, and the librarians performed interpretive dances of ancient cataloging techniques.**
 
-<p align="left">
- &nbsp;
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rajnikant" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://instagram.com/rajnikant_1103" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/rajnikant1021" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/rajnikant1021" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" /></a>
 </p>
 
+---
 
+### 💼 Experience
 
+- **Frontend Developer** @ Incture Technology *(Nov 2024 – Present)*
+  - Redesigned multi-step onboarding UI with React.js & SAP UI5, processing 200+ partner registrations monthly while reducing data entry errors by 30%.
+  - Integrated Java/Spring Boot REST APIs for real-time validation, improving system throughput by 40%.
+- **Frontend Developer Intern** @ Incture Technology *(Jan 2024 – Nov 2024)*
+  - Developed automated material master-data batch processing system using Excel-driven scripts, reducing manual entry time by 25%.
+  - Established comprehensive Jest unit testing framework achieving 85% test coverage.
+- **Frontend Developer** @ Dotevolve (Startup) *(2023 – 2024)*
+  - Overhauled e-commerce frontend architecture using React.js, boosting user engagement by 50%.
+  - Integrated secure payment gateways (Razorpay/Stripe) and optimized application performance through lazy loading and code splitting.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<h3 align="left"></h3> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img margin="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img margin="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p align="left">
- &nbsp;
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a>
 </p>
 
-<h3 align="left">Github Statistics:</h3>
+---
 
-![Rajnikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJNIKANT1021&theme=dark&show_icons=true)
+### 🚀 Featured Projects
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnikant1021&theme=dark&show_icons=true" alt="rajnikant1021" /></p>
+#### ✨ AI Presentation Studio (Latest Project)
+> **An enterprise-grade, AI-powered presentation generator redefining slide creation.** | [🚀 Live Demo](https://ai-ppt-generation.onrender.com/)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAJNIKANT1021&theme=dark&show_icons=true)](https://github.com/RAJNIKANT1021/github-readme-stats)
+**Overview:**
+AI Presentation Studio is a cutting-edge full-stack web application designed to autonomously generate professional, structured, and visually stunning presentations. By leveraging advanced AI prompts and an intelligent backend PPTX engine, it seamlessly bridges the gap between raw ideas and production-ready slide decks. 
 
+**Key Features:**
+- **Dynamic Slide Generation:** Instantly creates cohesive slide decks with a wide variety of layouts (Heroes, Timelines, Image-Left/Right, Stats, Bullet Points).
+- **Intelligent Content Formatting:** Built-in safeguards ensure text perfectly fits its designated bounds without overflow, dynamically adapting to slide bounds (e.g., using `fit: "shrink"` functionality) for a highly polished, professional look.
+- **Real-Time Preview & Editing:** Features a robust split-view UI where users can preview slides in real-time, modify JSON configurations on the fly, and instantly visualize changes.
+- **Seamless PPTX Export:** A powerful backend engine renders perfectly formatted, native `.pptx` files directly to the user's device.
+- **Modern UI/UX:** Built with a sleek, responsive React frontend emphasizing usability, speed, and premium aesthetics.
 
+*Note: Replace the placeholder link below with the actual URL to your screenshot image.*
+![AI Presentation Studio](YOUR_SCREENSHOT_IMAGE_URL_HERE)
 
+<br/>
 
-
-<h2 align="left">My Projects:</h2>
-<p align="left">
- &nbsp;
+#### 🔹 Online Sudoku Solver
+<p align="center">
+  <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe" alt="Sudoku 1" width="45%" />
+  <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82" alt="Sudoku 2" width="45%" />
 </p>
-<h2 align="center">A2R-Hub</h2>
-<p align="left">
- &nbsp;
-</p>
-<p>
- <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/accaaf6a-77e3-42ba-81e4-86877f6d8816" alt="rajnikant"/>
-
-
-</p>
-<p align="left">
- &nbsp;
-</p>
-<p>
-  <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/aee9dd8b-4c9f-47c0-bcc0-90a36dd22dc4" alt="rajnikant"/>
-
-
-</p>
-<p>
-   <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1ed5c899-89a1-4250-82d1-5f282b20cab1" alt="rajnikant"/>
-
-
-</p>
-<p align="left">
- &nbsp;
-</p>
-<p>
- 
-   <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/8af393b4-a758-4b21-8ea6-a2264cea422b" alt="rajnikant"/>
-
-
-</p>
-<p align="left">
- &nbsp;
-</p>
-<h2 align="center">iNotebook[MERN STACK]</h2>
-<p align="left">
- &nbsp;
-</p>
-<p>
- 
-
- <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/badbf584-e846-4cdb-a545-25700f7f4cb8" alt="rajnikant"/>
- 
- <img margin="50" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/2feb8549-e26f-46f4-8ee1-0f19655941ec" alt="rajnikant"/>
-
-
-
-</p>
-<p align="left">
- &nbsp;
-</p>
-<h2 align="center">Online Suduko Solver</h2>
-<p>
- <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe"/>
- <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82"/>
-
-
-</p>
-
-
-
-
-
-
