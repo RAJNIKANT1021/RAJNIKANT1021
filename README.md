@@ -86,8 +86,9 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 - **Seamless PPTX Export:** A powerful backend engine renders perfectly formatted, native `.pptx` files directly to the user's device.
 - **Modern UI/UX:** Built with a sleek, responsive React frontend emphasizing usability, speed, and premium aesthetics.
 
-*Note: Replace the placeholder link below with the actual URL to your screenshot image.*
-![AI Presentation Studio](YOUR_SCREENSHOT_IMAGE_URL_HERE)
+- <img width="1889" height="839" alt="image" src="https://github.com/user-attachments/assets/ced67cf2-de97-4329-917e-987e3a928181" />
+
+
 
 <br/>
 
