@@ -95,7 +95,7 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 
 ---
 
-### 🔹 Online Sudoku Solver
+### [Online Sudoku Solver](https://onlinesuduko.vercel.app/)
 > *Algorithmic solver with an interactive UI.*
 
 **Tech Stack:** `React.js` `Algorithms` `CSS3`
