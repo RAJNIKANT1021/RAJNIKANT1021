@@ -88,6 +88,7 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 - **Native Export:** Renders native `.pptx` files dynamically.
 
 <img width="1839" height="816" alt="image" src="https://github.com/user-attachments/assets/c1dd9a78-d6fe-4925-961c-862fb2d29328" />
+
 <img width="1510" height="792" alt="image" src="https://github.com/user-attachments/assets/9708e4a4-86f4-4b2b-b055-d4a6dd2df305" />
 
 
@@ -99,16 +100,7 @@ AI Presentation Studio is a cutting-edge full-stack web application designed to 
 
 **Tech Stack:** `React.js` `Algorithms` `CSS3`
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe" width="400" alt="Sudoku Interface"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82" width="400" alt="Sudoku Solver in Action"/>
-    </td>
-  </tr>
-</table>
+  <img width="1488" height="832" alt="image" src="https://github.com/user-attachments/assets/ae75f55b-d516-4947-80fd-b5568dbc7eda" />
 
 <br/>
 
