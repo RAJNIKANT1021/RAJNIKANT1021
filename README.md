@@ -1,109 +1,115 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Rajnikant&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Innovator&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Rajnikant</h1>
-<h3 align="center">Passionate Full-Stack Developer | Innovator | Team Player</h3>
+<h3 align="center">
+  Transforming ideas into scalable, high-performance web applications.
+</h3>
 
 <div align="center">
-  <img alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+  <a href="https://rajnikant.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/rajnikant" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/rajnikant1021" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rajnikant1021" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://instagram.com/rajnikant_1103" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:Rajnikant1021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=rajnikant1021&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajnikant1021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 👨‍💻 Professional Summary
 
----
+I am a detail-oriented **Frontend & Full-Stack Developer** with a proven track record of designing, building, and optimizing modern web architectures. Currently focusing on **AI integrations, scalable frontend systems, and enterprise-grade UI/UX engineering**. 
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently focused on **Advanced Full-Stack Development, AI Integrations, and Modern Frontend Architectures.**
-- 💬 Ask me about **React.js, JavaScript, Node.js, Data Structures & Algorithms, and UI/UX Engineering.**
-- 🌍 Portfolio: **[rajnikant.cloud](https://rajnikant.cloud)**
-- 📫 How to reach me: **Rajnikant1021@gmail.com**
-- ⚡ Fun fact: **As I walked through the library, the books whispered secrets to me, and the librarians performed interpretive dances of ancient cataloging techniques.**
-
----
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajnikant" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://instagram.com/rajnikant_1103" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/rajnikant1021" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/rajnikant1021" target="_blank"><img margin="10" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" /></a>
-</p>
-
----
-
-### 💼 Experience
-
-- **Frontend Developer** @ Incture Technology *(Nov 2024 – Present)*
-  - Redesigned multi-step onboarding UI with React.js & SAP UI5, processing 200+ partner registrations monthly while reducing data entry errors by 30%.
-  - Integrated Java/Spring Boot REST APIs for real-time validation, improving system throughput by 40%.
-- **Frontend Developer Intern** @ Incture Technology *(Jan 2024 – Nov 2024)*
-  - Developed automated material master-data batch processing system using Excel-driven scripts, reducing manual entry time by 25%.
-  - Established comprehensive Jest unit testing framework achieving 85% test coverage.
-- **Frontend Developer** @ Dotevolve (Startup) *(2023 – 2024)*
-  - Overhauled e-commerce frontend architecture using React.js, boosting user engagement by 50%.
-  - Integrated secure payment gateways (Razorpay/Stripe) and optimized application performance through lazy loading and code splitting.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img margin="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img margin="10" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### ✨ AI Presentation Studio (Latest Project)
-> **An enterprise-grade, AI-powered presentation generator redefining slide creation.** | [🚀 Live Demo](https://ai-ppt-generation.onrender.com/)
-
-**Overview:**
-AI Presentation Studio is a cutting-edge full-stack web application designed to autonomously generate professional, structured, and visually stunning presentations. By leveraging advanced AI prompts and an intelligent backend PPTX engine, it seamlessly bridges the gap between raw ideas and production-ready slide decks. 
-
-**Key Features:**
-- **Dynamic Slide Generation:** Instantly creates cohesive slide decks with a wide variety of layouts (Heroes, Timelines, Image-Left/Right, Stats, Bullet Points).
-- **Intelligent Content Formatting:** Built-in safeguards ensure text perfectly fits its designated bounds without overflow, dynamically adapting to slide bounds (e.g., using `fit: "shrink"` functionality) for a highly polished, professional look.
-- **Real-Time Preview & Editing:** Features a robust split-view UI where users can preview slides in real-time, modify JSON configurations on the fly, and instantly visualize changes.
-- **Seamless PPTX Export:** A powerful backend engine renders perfectly formatted, native `.pptx` files directly to the user's device.
-- **Modern UI/UX:** Built with a sleek, responsive React frontend emphasizing usability, speed, and premium aesthetics.
-
-*Note: Replace the placeholder link below with the actual URL to your screenshot image.*
-![AI Presentation Studio](YOUR_SCREENSHOT_IMAGE_URL_HERE)
+- 🚀 **Current Focus:** Advanced Full-Stack Architecture, React.js Ecosystem, AI-driven applications.
+- 💡 **Core Strengths:** Building responsive layouts, optimizing web performance, seamless API integrations, and delivering premium user experiences.
+- 💬 **Open To:** Collaborations on innovative tech projects and discussions about modern UI/UX architecture.
 
 <br/>
 
-#### 🧩 Online Sudoku Solver
-> **An interactive, algorithm-driven application that instantly solves complex Sudoku puzzles.** | [🚀 Live Demo](https://onlinesudukosolver.web.app/)
+## 🛠️ Technical Arsenal
 
-**Overview:**
-The Online Sudoku Solver is a specialized web application built with React.js that provides instant solutions to Sudoku puzzles. Designed for both enthusiasts and learners, it combines an intuitive, responsive user interface with a highly optimized algorithmic core.
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
-**Key Features:**
-- **Optimized Solving Engine:** Powered by a highly efficient backtracking algorithm enhanced with advanced pruning techniques, reducing solve time by over 50%.
-- **Interactive Visualizations:** Offers step-by-step visualization of the solving process, making it an excellent educational tool for players.
-- **Hint System & Difficulty Levels:** Includes intelligent hints to guide users when stuck, alongside multiple board difficulty settings for a tailored experience.
-- **Responsive Design:** Built using modern frontend tools (React.js, CSS3) ensuring a seamless, engaging experience across all devices.
+<br/>
 
-<p align="center">
-  <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe" alt="Sudoku 1" width="45%" />
-  <img margin="10" src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82" alt="Sudoku 2" width="45%" />
-</p>
+## 💼 Professional Experience
+
+| Role | Company | Duration | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Frontend Developer** | **Incture Technology** | *Nov 2024 – Present* | <ul><li>Redesigned multi-step onboarding UI (React.js & SAP UI5) processing 200+ partners monthly, reducing data entry errors by 30%.</li><li>Integrated REST APIs for real-time validation, enhancing system throughput by 40%.</li></ul> |
+| **Frontend Dev Intern** | **Incture Technology** | *Jan 2024 – Nov 2024* | <ul><li>Automated master-data batch processing, saving 25% of manual entry time.</li><li>Built comprehensive Jest unit testing framework achieving 85% test coverage.</li></ul> |
+| **Frontend Developer** | **Dotevolve** *(Startup)* | *2023 – 2024* | <ul><li>Overhauled e-commerce architecture (React.js), boosting engagement by 50%.</li><li>Integrated secure payment gateways & optimized lazy loading performance.</li></ul> |
+
+<br/>
+
+## 🚀 Featured Projects
+
+### ✨ [AI Presentation Studio](https://ai-ppt-generation.onrender.com/)
+> *An enterprise-grade, AI-powered presentation generator redefining slide creation.*
+
+**Tech Stack:** `React.js` `Node.js` `AI Integration` `PPTX Engine`
+
+AI Presentation Studio is a cutting-edge full-stack web application designed to autonomously generate professional, structured, and visually stunning presentations. By leveraging advanced AI prompts and an intelligent backend PPTX engine, it seamlessly bridges the gap between raw ideas and production-ready slide decks.
+
+- **Dynamic Generation:** Creates diverse layouts (Heroes, Timelines, Image-Left/Right, Stats).
+- **Intelligent Formatting:** Ensures text fits its designated bounds seamlessly using dynamic content scaling.
+- **Real-Time Preview:** Split-view UI for real-time preview and instant on-the-fly JSON edits.
+- **Native Export:** Renders native `.pptx` files dynamically.
+
+*(Add a high-quality product screenshot below)*  
+`![AI Presentation Studio Demo](YOUR_SCREENSHOT_IMAGE_URL_HERE)`
+
+---
+
+### 🔹 Online Sudoku Solver
+> *Algorithmic solver with an interactive UI.*
+
+**Tech Stack:** `React.js` `Algorithms` `CSS3`
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/1e3ab0af-497a-4482-8a2a-ba824192c4fe" width="400" alt="Sudoku Interface"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/RAJNIKANT1021/RAJNIKANT1021/assets/113264449/6262b9f4-98fb-47b4-8da1-a50c842b4b82" width="400" alt="Sudoku Solver in Action"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <i>"As I walked through the library, the books whispered secrets to me, and the librarians performed interpretive dances of ancient cataloging techniques."</i>
+</div>
