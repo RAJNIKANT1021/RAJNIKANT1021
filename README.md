@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-  <a href="https://rajnikant.cloud" target="_blank">
+  <a href="[https://rajnikant.cloud](https://rajnikant1021.github.io/Rajnikant/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rajnikant" target="_blank">
